@@ -5,18 +5,9 @@
         "ShowAds": true,
         "Ads": [
             {
-                "MonetizationId": 1,
-                "MonetizerName": "Facebook Monetization",
-                "AdAppKey": "1149505239169933",
-                "BannerAdKey": "1149505239169933_1149506502503140",
-                "InterstitialAdKey": "1149505239169933_1149506582503132",
-                "RewardedAdKey": "1149505239169933_1149506679169789",
-                "NativeAdKey": "1149505239169933_1246099886177134"
-            },
-            {
 				"MonetizationId": 5,
 				"MonetizerName": "UnityAds",
-				"AdAppKey": "4859841",
+				"AdAppKey": "5015926",
 				"BannerAdKey": "Banner_Android",
 				"InterstitialAdKey": "Interstitial_Android",
 				"RewardedAdKey": "Rewarded_Android",
